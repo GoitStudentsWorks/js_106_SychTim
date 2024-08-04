@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/our-team-project/",
+    "build": "vite build --base=/js_106_SychTim/",
     "preview": "vite preview"
   },
   "devDependencies": {
